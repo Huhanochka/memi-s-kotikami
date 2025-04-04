@@ -79,3 +79,11 @@
   border-color: skyblue;
   opacity: 1;
 }
+
+.img-background--mem 1 {
+     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githack.com/Huhanochka/memi-s-kotikami/main/mem%201.jpg');
+}
+
+.img-background--mem 2 {
+     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githack.com/Huhanochka/memi-s-kotikami/main/mem%202.jpg');
+}
